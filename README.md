@@ -1,7 +1,8 @@
 # MasonAltenburg
 My personal GitHub profile
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/12345678?v=4&s=200" width="200" alt="Mason Altenburg"/>
+  <img src=<img width="800" height="800" alt="image" src="https://github.com/user-attachments/assets/3d44f968-21b9-42af-8ad2-16f569014265" />
+/>
 </p>
 
 # Hi, I’m Mason Altenburg 👋
