@@ -15,4 +15,4 @@ WireShark
 
 
 🤳 **Connect with me:**  
-- [LinkedIn](https://linkedin.com/in/your‑profile)  
+- [LinkedIn](https://www.linkedin.com/in/mason-altenburg-7abba5211/)
