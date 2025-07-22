@@ -1,9 +1,4 @@
-# MasonAltenburg
-My personal GitHub profile
-<p align="center">
-
-
-# Hi, I’m Mason Altenburg 👋
+# Hi, I’m Mason Altenburg, an IT Proffesional 👋
 
 # 👨‍💻Information Technology Projects:
 
