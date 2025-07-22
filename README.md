@@ -9,6 +9,8 @@ osTicket (Help Desk Ticketing System)
 
 Virtual Box
 - [AD Lab with VirtualBox](https://github.com/mason-altenburg/Configuring-On-premises-Active-Directory-with-Virtual-Box)
+
+WireShark
 - [Network Security Scripts](https://github.com/mason-altenburg/aws-network-security)
 
 
