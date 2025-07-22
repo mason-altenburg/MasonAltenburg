@@ -15,4 +15,3 @@ Virtual Box
 🤳 **Connect with me:**  
 - [LinkedIn](https://linkedin.com/in/your‑profile)  
 
-- [Twitter](https://twitter.com/your‑handle)
