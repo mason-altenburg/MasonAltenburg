@@ -5,7 +5,7 @@ My personal GitHub profile
 
 # Hi, I’m Mason Altenburg 👋
 
-##👨‍💻Information Technology Projects:##
+#👨‍💻Information Technology Projects:
 
 - [osTicket Installation Tutorial](https://github.com/mason-altenburg/osTicket-Installation-Tutorial)
 - [AD Lab with VirtualBox](https://github.com/mason-altenburg/Configuring-On-premises-Active-Directory-with-Virtual-Box)
