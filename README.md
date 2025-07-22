@@ -5,6 +5,7 @@
 osTicket (Help Desk Ticketing System)
 - [osTicket Installation Tutorial](https://github.com/mason-altenburg/osTicket-Installation-Tutorial)
 - [osTicket-Post-Installation-Configuration](https://github.com/mason-altenburg/osTicket-Post-Installation-Configuration)
+- [osTicket-Ticket-Lifestyle-Examples](https://github.com/mason-altenburg/osTicket-Ticket-Lifecycle-Examples)
 
 Virtual Box
 - [AD Lab with VirtualBox](https://github.com/mason-altenburg/Configuring-On-premises-Active-Directory-with-Virtual-Box)
