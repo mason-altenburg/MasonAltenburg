@@ -11,9 +11,8 @@ Virtual Box
 - [AD Lab with VirtualBox](https://github.com/mason-altenburg/Configuring-On-premises-Active-Directory-with-Virtual-Box)
 
 WireShark
-- [Network Security Scripts]([https://github.com/mason-altenburg/aws-network-security](https://github.com/mason-altenburg/Network-Security-Groups-NSGs-and-Inspecting-Traffic-Between-Azure-Virtual-Machines/blob/main/README.md))
+- [Network Security Scripts](https://github.com/mason-altenburg/Network-Security-Groups-NSGs-and-Inspecting-Traffic-Between-Azure-Virtual-Machines)
 
 
 🤳 **Connect with me:**  
 - [LinkedIn](https://linkedin.com/in/your‑profile)  
-
