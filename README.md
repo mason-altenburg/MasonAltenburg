@@ -8,7 +8,7 @@ My personal GitHub profile
 **Information Technology Projects:**  
 
 - [osTicket Installation Tutorial](https://github.com/mason-altenburg/osTicket-Installation-Tutorial)
-- [AD Lab with VirtualBox](https://github.com/mason-altenburg/Configuring-On-premises-Active-Directory-with-Virtual-Box)
+- [AD Lab with VirtualBox]([https://github.com/mason-altenburg/Configuring-On-premises-Active-Directory-with-Virtual-Box](https://github.com/mason-altenburg/Configuring-On-premises-Active-Directory-with-Virtual-Box/blob/main/README.md))
 - [Network Security Scripts](https://github.com/mason-altenburg/aws-network-security)
 
 
